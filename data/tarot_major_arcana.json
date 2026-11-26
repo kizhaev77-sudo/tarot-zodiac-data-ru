@@ -1,0 +1,451 @@
+[
+  {
+    "number": 0,
+    "slug": "shut",
+    "name_ru": "Шут",
+    "name_en": "The Fool",
+    "element": "air",
+    "element_ru": "воздух",
+    "correspondence": "Уран",
+    "keywords_upright": [
+      "начало",
+      "спонтанность",
+      "доверие к пути",
+      "лёгкость"
+    ],
+    "keywords_reversed": [
+      "безрассудство",
+      "страх первого шага",
+      "легкомыслие"
+    ],
+    "url": "https://nebogovorit.ru/taro/znachenie/shut/"
+  },
+  {
+    "number": 1,
+    "slug": "mag",
+    "name_ru": "Маг",
+    "name_en": "The Magician",
+    "element": "air",
+    "element_ru": "воздух",
+    "correspondence": "Меркурий",
+    "keywords_upright": [
+      "воля",
+      "мастерство",
+      "ресурсы",
+      "инициатива"
+    ],
+    "keywords_reversed": [
+      "манипуляция",
+      "распылённость",
+      "нереализованный талант"
+    ],
+    "url": "https://nebogovorit.ru/taro/znachenie/mag/"
+  },
+  {
+    "number": 2,
+    "slug": "verhovnaya-zhrica",
+    "name_ru": "Верховная Жрица",
+    "name_en": "The High Priestess",
+    "element": "water",
+    "element_ru": "вода",
+    "correspondence": "Луна",
+    "keywords_upright": [
+      "интуиция",
+      "тайна",
+      "ожидание",
+      "внутреннее знание"
+    ],
+    "keywords_reversed": [
+      "скрытность",
+      "игнорирование чутья",
+      "недосказанность"
+    ],
+    "url": "https://nebogovorit.ru/taro/znachenie/verhovnaya-zhrica/"
+  },
+  {
+    "number": 3,
+    "slug": "imperatrica",
+    "name_ru": "Императрица",
+    "name_en": "The Empress",
+    "element": "earth",
+    "element_ru": "земля",
+    "correspondence": "Венера",
+    "keywords_upright": [
+      "плодородие",
+      "забота",
+      "красота",
+      "изобилие"
+    ],
+    "keywords_reversed": [
+      "зависимость",
+      "застой",
+      "гиперопека"
+    ],
+    "url": "https://nebogovorit.ru/taro/znachenie/imperatrica/"
+  },
+  {
+    "number": 4,
+    "slug": "imperator",
+    "name_ru": "Император",
+    "name_en": "The Emperor",
+    "element": "fire",
+    "element_ru": "огонь",
+    "correspondence": "Овен",
+    "keywords_upright": [
+      "структура",
+      "власть",
+      "порядок",
+      "ответственность"
+    ],
+    "keywords_reversed": [
+      "жёсткость",
+      "контроль",
+      "авторитаризм"
+    ],
+    "url": "https://nebogovorit.ru/taro/znachenie/imperator/"
+  },
+  {
+    "number": 5,
+    "slug": "ierofant",
+    "name_ru": "Иерофант",
+    "name_en": "The Hierophant",
+    "element": "earth",
+    "element_ru": "земля",
+    "correspondence": "Телец",
+    "keywords_upright": [
+      "традиция",
+      "наставничество",
+      "правила",
+      "обучение"
+    ],
+    "keywords_reversed": [
+      "догматизм",
+      "формализм",
+      "бунт против правил"
+    ],
+    "url": "https://nebogovorit.ru/taro/znachenie/ierofant/"
+  },
+  {
+    "number": 6,
+    "slug": "vlyublennye",
+    "name_ru": "Влюблённые",
+    "name_en": "The Lovers",
+    "element": "air",
+    "element_ru": "воздух",
+    "correspondence": "Близнецы",
+    "keywords_upright": [
+      "выбор",
+      "союз",
+      "ценности",
+      "близость"
+    ],
+    "keywords_reversed": [
+      "сомнения",
+      "рассогласованность",
+      "откладывание выбора"
+    ],
+    "url": "https://nebogovorit.ru/taro/znachenie/vlyublennye/"
+  },
+  {
+    "number": 7,
+    "slug": "kolesnica",
+    "name_ru": "Колесница",
+    "name_en": "The Chariot",
+    "element": "water",
+    "element_ru": "вода",
+    "correspondence": "Рак",
+    "keywords_upright": [
+      "движение",
+      "победа через дисциплину",
+      "цель"
+    ],
+    "keywords_reversed": [
+      "потеря направления",
+      "агрессия",
+      "разброд"
+    ],
+    "url": "https://nebogovorit.ru/taro/znachenie/kolesnica/"
+  },
+  {
+    "number": 8,
+    "slug": "sila",
+    "name_ru": "Сила",
+    "name_en": "Strength",
+    "element": "fire",
+    "element_ru": "огонь",
+    "correspondence": "Лев",
+    "keywords_upright": [
+      "внутренняя сила",
+      "мягкая настойчивость",
+      "смелость"
+    ],
+    "keywords_reversed": [
+      "неуверенность",
+      "срыв",
+      "подавленные эмоции"
+    ],
+    "url": "https://nebogovorit.ru/taro/znachenie/sila/"
+  },
+  {
+    "number": 9,
+    "slug": "otshelnik",
+    "name_ru": "Отшельник",
+    "name_en": "The Hermit",
+    "element": "earth",
+    "element_ru": "земля",
+    "correspondence": "Дева",
+    "keywords_upright": [
+      "уединение",
+      "поиск смысла",
+      "мудрость",
+      "пауза"
+    ],
+    "keywords_reversed": [
+      "изоляция",
+      "замкнутость",
+      "отказ от помощи"
+    ],
+    "url": "https://nebogovorit.ru/taro/znachenie/otshelnik/"
+  },
+  {
+    "number": 10,
+    "slug": "koleso-fortuny",
+    "name_ru": "Колесо Фортуны",
+    "name_en": "Wheel of Fortune",
+    "element": "fire",
+    "element_ru": "огонь",
+    "correspondence": "Юпитер",
+    "keywords_upright": [
+      "перемены",
+      "цикл",
+      "шанс",
+      "поворот"
+    ],
+    "keywords_reversed": [
+      "сопротивление переменам",
+      "затяжной цикл неудач"
+    ],
+    "url": "https://nebogovorit.ru/taro/znachenie/koleso-fortuny/"
+  },
+  {
+    "number": 11,
+    "slug": "spravedlivost",
+    "name_ru": "Справедливость",
+    "name_en": "Justice",
+    "element": "air",
+    "element_ru": "воздух",
+    "correspondence": "Весы",
+    "keywords_upright": [
+      "баланс",
+      "честность",
+      "причины и следствия",
+      "решение"
+    ],
+    "keywords_reversed": [
+      "несправедливость",
+      "уход от ответственности"
+    ],
+    "url": "https://nebogovorit.ru/taro/znachenie/spravedlivost/"
+  },
+  {
+    "number": 12,
+    "slug": "poveshennyy",
+    "name_ru": "Повешенный",
+    "name_en": "The Hanged Man",
+    "element": "water",
+    "element_ru": "вода",
+    "correspondence": "Нептун",
+    "keywords_upright": [
+      "пауза",
+      "смена взгляда",
+      "жертва ради нового"
+    ],
+    "keywords_reversed": [
+      "затягивание",
+      "бессмысленная жертва",
+      "застой"
+    ],
+    "url": "https://nebogovorit.ru/taro/znachenie/poveshennyy/"
+  },
+  {
+    "number": 13,
+    "slug": "smert",
+    "name_ru": "Смерть",
+    "name_en": "Death",
+    "element": "water",
+    "element_ru": "вода",
+    "correspondence": "Скорпион",
+    "keywords_upright": [
+      "завершение",
+      "трансформация",
+      "отпускание"
+    ],
+    "keywords_reversed": [
+      "цепляние за прошлое",
+      "затянувшийся финал"
+    ],
+    "url": "https://nebogovorit.ru/taro/znachenie/smert/"
+  },
+  {
+    "number": 14,
+    "slug": "umerennost",
+    "name_ru": "Умеренность",
+    "name_en": "Temperance",
+    "element": "fire",
+    "element_ru": "огонь",
+    "correspondence": "Стрелец",
+    "keywords_upright": [
+      "баланс",
+      "терпение",
+      "исцеление",
+      "золотая середина"
+    ],
+    "keywords_reversed": [
+      "крайности",
+      "нетерпение",
+      "дисбаланс"
+    ],
+    "url": "https://nebogovorit.ru/taro/znachenie/umerennost/"
+  },
+  {
+    "number": 15,
+    "slug": "dyavol",
+    "name_ru": "Дьявол",
+    "name_en": "The Devil",
+    "element": "earth",
+    "element_ru": "земля",
+    "correspondence": "Козерог",
+    "keywords_upright": [
+      "зависимость",
+      "соблазн",
+      "привязанность",
+      "тень"
+    ],
+    "keywords_reversed": [
+      "освобождение",
+      "осознание ловушки",
+      "разрыв цепей"
+    ],
+    "url": "https://nebogovorit.ru/taro/znachenie/dyavol/"
+  },
+  {
+    "number": 16,
+    "slug": "bashnya",
+    "name_ru": "Башня",
+    "name_en": "The Tower",
+    "element": "fire",
+    "element_ru": "огонь",
+    "correspondence": "Марс",
+    "keywords_upright": [
+      "внезапные перемены",
+      "крушение иллюзий",
+      "шок"
+    ],
+    "keywords_reversed": [
+      "оттягивание краха",
+      "пережитое потрясение"
+    ],
+    "url": "https://nebogovorit.ru/taro/znachenie/bashnya/"
+  },
+  {
+    "number": 17,
+    "slug": "zvezda",
+    "name_ru": "Звезда",
+    "name_en": "The Star",
+    "element": "air",
+    "element_ru": "воздух",
+    "correspondence": "Водолей",
+    "keywords_upright": [
+      "надежда",
+      "вдохновение",
+      "восстановление",
+      "ясность"
+    ],
+    "keywords_reversed": [
+      "разочарование",
+      "потеря веры",
+      "истощение"
+    ],
+    "url": "https://nebogovorit.ru/taro/znachenie/zvezda/"
+  },
+  {
+    "number": 18,
+    "slug": "luna",
+    "name_ru": "Луна",
+    "name_en": "The Moon",
+    "element": "water",
+    "element_ru": "вода",
+    "correspondence": "Рыбы",
+    "keywords_upright": [
+      "неопределённость",
+      "страхи",
+      "сны",
+      "интуиция"
+    ],
+    "keywords_reversed": [
+      "прояснение",
+      "выход из тумана",
+      "разоблачение иллюзий"
+    ],
+    "url": "https://nebogovorit.ru/taro/znachenie/luna/"
+  },
+  {
+    "number": 19,
+    "slug": "solnce",
+    "name_ru": "Солнце",
+    "name_en": "The Sun",
+    "element": "fire",
+    "element_ru": "огонь",
+    "correspondence": "Солнце",
+    "keywords_upright": [
+      "радость",
+      "успех",
+      "ясность",
+      "жизненная энергия"
+    ],
+    "keywords_reversed": [
+      "временные трудности",
+      "приглушённая радость"
+    ],
+    "url": "https://nebogovorit.ru/taro/znachenie/solnce/"
+  },
+  {
+    "number": 20,
+    "slug": "sud",
+    "name_ru": "Суд",
+    "name_en": "Judgement",
+    "element": "fire",
+    "element_ru": "огонь",
+    "correspondence": "Плутон",
+    "keywords_upright": [
+      "пробуждение",
+      "итог",
+      "призыв",
+      "прощение"
+    ],
+    "keywords_reversed": [
+      "самообвинение",
+      "откладывание решения"
+    ],
+    "url": "https://nebogovorit.ru/taro/znachenie/sud/"
+  },
+  {
+    "number": 21,
+    "slug": "mir",
+    "name_ru": "Мир",
+    "name_en": "The World",
+    "element": "earth",
+    "element_ru": "земля",
+    "correspondence": "Сатурн",
+    "keywords_upright": [
+      "завершение цикла",
+      "целостность",
+      "достижение"
+    ],
+    "keywords_reversed": [
+      "незавершённость",
+      "последний шаг не сделан"
+    ],
+    "url": "https://nebogovorit.ru/taro/znachenie/mir/"
+  }
+]
